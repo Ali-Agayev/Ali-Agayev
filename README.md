@@ -14,11 +14,15 @@
 
 ### 🛠️ Skills
 #### 💻 Languages:
-- 🐍 Python  
-- ⚡ JavaScript  
+- 🐍 Python    
 - 🌐 HTML  
 - 🎨 CSS  
-- ☕ Java *(learning)*  
+- ☕ Java *(learning)*
+- 🚀 Node.js
+- ⚛️ React.js
+- 🧠 JavaScript
+- 🌐 REST API
+- 🗄️ MongoDB
 
 #### 🧰 Tools:
 - Git & GitHub  
