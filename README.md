@@ -28,7 +28,8 @@
 - Git & GitHub  
 - Pygame  
 - Visual Studio Code  
-- Android Development  
+- Android Development
+- Google Antigravity
 
 ---
 
