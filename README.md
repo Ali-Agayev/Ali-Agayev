@@ -23,23 +23,13 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=Ali-Agayev&show_icons=true&theme=tokyonight" alt="Ali's Stats" />
-  <br/>
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=Ali-Agayev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Python, Django, REST API, Node.js |
-| **Frontend** | React, Next.js, TypeScript, Tailwind 4 |
-| **3D & Design** | Spline, Framer Motion, CSS Glassmorphism |
+| **Backend & Logic** | Python, Django, REST API, Node.js |
+| **Frontend & UI** | React, Next.js 16, TypeScript, Tailwind 4 |
+| **3D & Animation** | Spline, Framer Motion, CSS Glassmorphism |
 | **Tools** | Git, GitHub, VS Code, Google Antigravity |
 
 ---
