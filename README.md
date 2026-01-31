@@ -16,36 +16,44 @@
 
 ### 🧠 About Me
 
-- 🐍 **Python & Django Specialist**: I build secure, scalable, and high-performance backend systems.
-- 🌐 **Modern Frontend**: Creating immersive user experiences with **Next.js**, **React**, and **Tailwind CSS 4**.
-- 🎮 **Creative Automation**: Experienced in **Pygame** and desktop scripting for automation.
-- 💡 **Focus**: Clean architecture, interactive 3D web design (Spline), and professional UI/UX.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Backend**: Python (Django, Flask), Node.js, REST APIs
-- **Frontend**: Next.js 16, React, TypeScript, Framer Motion
-- **Design**: Spline 3D, Tailwind CSS 4, CSS Glassmorphism
-- **Tools**: Git, GitHub, VS Code, Google Antigravity
+- 🐍 **Python & Django Specialist**: Building robust backends and clean APIs is my core strength.
+- 🌐 **Full-Stack Developer**: Expert in modern web technologies like **Next.js 16** and **React**.
+- 🎮 **Creative Mind**: Merging 3D interactive design (**Spline**) with web and game logic (**Pygame**).
+- 💡 **Goal**: Crafting high-performance, visually stunning, and scalable digital solutions.
 
 ---
 
 ### 📊 GitHub Analytics
 
-> [!NOTE]
-> Stats kartları görünmürsə, bir neçə dəqiqə gözləyib səhifəni yeniləyin (GitHub serverlərindən asılıdır).
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Agayev&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Agayev&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=Ali-Agayev&show_icons=true&theme=tokyonight" alt="Ali's Stats" />
+  <br/>
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=Ali-Agayev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 Contact Me
+### 🛠️ Tech Stack
 
-[Email](mailto:agayevali677@gmail.com) | [GitHub](https://github.com/Ali-Agayev)
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Python, Django, REST API, Node.js |
+| **Frontend** | React, Next.js, TypeScript, Tailwind 4 |
+| **3D & Design** | Spline, Framer Motion, CSS Glassmorphism |
+| **Tools** | Git, GitHub, VS Code, Google Antigravity |
+
+---
+
+### 📫 Contact
+
+<p align="left">
+  <a href="mailto:agayevali677@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ali-Agayev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
