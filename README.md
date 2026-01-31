@@ -1,25 +1,26 @@
 # Hi there! 👋 I'm Ali Agayev
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+%26+Django+Expert;Full-Stack+Developer;Creative+Web+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Python+%26+Django+Expert;Full-Stack+Developer;AI+%26+Cloud+Specialist;Flutter+Mobile+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🐍 **Python & Django Specialist**: Building robust backends and clean APIs is my core strength.
-- 🌐 **Full-Stack Developer**: Expert in modern web technologies like **Next.js 16** and **React**.
-- 🎮 **Creative Mind**: Merging 3D interactive design (**Spline**) with web and game logic (**Pygame**).
-- 💡 **Goal**: Crafting high-performance, visually stunning, and scalable digital solutions.
+- 🐍 **Backend & Architecture**: Specialist in **Python & Django** for building secure, enterprise-grade systems.
+- 📱 **Mobile Development**: Crafting cross-platform apps with **Flutter** for a seamless mobile experience.
+- 🤖 **AI Integration**: Implementing **LLM APIs (OpenAI)** and AI-driven automation into modern web apps.
+- ☁️ **Cloud & Hosting**: Experienced in deploying and managing applications on **Cloud (Vercel, Render)**.
+- 🌐 **Web Excellence**: Building interactive frontends with **Next.js 16**, **React**, and **Spline 3D**.
 
 ---
 
@@ -27,14 +28,14 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend & Logic** | Python, Django, REST API, Node.js |
-| **Frontend & UI** | React, Next.js 16, TypeScript, Tailwind 4 |
-| **3D & Animation** | Spline, Framer Motion, CSS Glassmorphism |
-| **Tools** | Git, GitHub, VS Code, Google Antigravity |
+| **Backend & AI** | Python, Django, REST Framework, OpenAI API, Node.js |
+| **Mobile & Web** | Flutter, Dart, React, Next.js 16, TypeScript |
+| **Cloud & Hosting** | Vercel, Render, Cloudflare, Git, GitHub Actions |
+| **Design & 3D** | Tailwind CSS 4, Spline 3D, Framer Motion, Glassmorphism |
 
 ---
 
-### 📫 Contact
+### 📫 Let's Connect
 
 <p align="left">
   <a href="mailto:agayevali677@gmail.com">
